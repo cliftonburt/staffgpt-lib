@@ -120,12 +120,11 @@ This file is StaffGPT's front-facing documentation. It includes an introduction,
 
 ## Contributing
 
-We welcome contributions! Feel free to fork the repository and submit pull requests. Please make sure to follow the contribution guidelines outlined in [CONTRIBUTING.md](CONTRIBUTING.md).
+We welcome contributions. Feel free to fork the repository and submit pull requests. Please make sure to follow the contribution guidelines outlined in [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
+This project is licensed under the MIT License.
 
 
 
